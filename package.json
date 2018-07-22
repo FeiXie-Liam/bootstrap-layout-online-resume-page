@@ -19,5 +19,9 @@
   "homepage": "https://school.thoughtworks.cn",
   "devDependencies": {
     "jasmine": "^2.6.0"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.3.1"
   }
 }
